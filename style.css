@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+}
+.cuerpo{
+    margin-left: 100px;
+    margin-top: 50px;
+    height: 200px;
+    width: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+button{
+    background-color: wheat;
+    border-radius: 50%;
+    height: 50px;
+    width: 90px;
+}
